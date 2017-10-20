@@ -45,7 +45,7 @@ def betterBWMatching(lastColumn, pattern, firstIndex):
 
 
 
-fileName = 'rosalind_q12.txt'
+fileName = 'rosalind_ba9m.txt'
 with open(fileName) as file:
     content = file.readlines()
 
